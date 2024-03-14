@@ -1072,7 +1072,7 @@
             j.$G)().t, i = null === e || void 0 === e || null === (n = e.route) || void 0 === n || null === (t = n.priceImpactDetails) || void 0 === t ? void 0 : t.realizedLPFee;
             return {
                 label: o("Liquidity Provider Fee"),
-                tooltipText: o("For each trade a 0.25% fee is paid. 0.20% goes to liquidity providers and 0.05% goes to the AliumSwap treasury."),
+                tooltipText: o("For each trade a 0.25% fee is paid. 0.20% goes to liquidity providers and 0.05% goes to the RinanceSwap treasury."),
                 details: i ? "".concat(i, " ").concat(null === e || void 0 === e || null === (r = e.tokenA) || void 0 === r ? void 0 : r.symbol) : "-"
             }
         };

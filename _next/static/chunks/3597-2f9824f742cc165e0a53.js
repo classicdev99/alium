@@ -44,7 +44,7 @@
         (0,
         p.Z)(o, i.a_.MAINNET, "smartchain"),
         o))
-          , h = "https://raw.githubusercontent.com/Alium-Finance/tokens-list/main"
+          , h = "https://raw.githubusercontent.com/Rinance-Finance/tokens-list/main"
           , b = "".concat(h, "/common")
           , y = "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/"
           , T = "".concat(h, "/polygon/images/")

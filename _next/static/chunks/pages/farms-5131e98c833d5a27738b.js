@@ -694,7 +694,7 @@
                             i = n.map((function(e) {
                                 return {
                                     address: r,
-                                    name: "pendingAlium",
+                                    name: "pendingRinance",
                                     params: [e.pid, t]
                                 }
                             }
@@ -1466,7 +1466,7 @@
                             y.jsx)(ot, {
                                 table: o,
                                 type: "per",
-                                title: i("Alium per $1000")
+                                title: i("Rinance per $1000")
                             })]
                         })
                     }), (0,
@@ -2421,7 +2421,7 @@
                     children: e("LP Type")
                 }), (0,
                 y.jsx)(Tt, {
-                    children: "Alium LP"
+                    children: "Rinance LP"
                 })]
             })
         }

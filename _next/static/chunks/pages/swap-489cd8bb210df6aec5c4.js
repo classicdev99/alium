@@ -47,7 +47,7 @@
           , e = a.default.div.withConfig({
             displayName: "swapstyled__RootSwap",
             componentId: "sc-1p5mfq1-0"
-        })(["display:flex;justify-content:center;width:100%;background:url('images/swap/left_arrow_swap.svg'),url('images/swap/right_arrow_swap.svg');background-position:left 60px,right 60px;background-repeat:no-repeat,no-repeat;@media ", "{background-position:left 66px,calc(100% + 104px) 66px;}@media ", "{background-position:left 43px,calc(100% + 155px) 43px;}@media ", "{background-position:calc(0% - 172px) 17px,calc(100% + 142px) 17px;background-size:319px 136px,258px 115px;}"], o.mq.down(o.AV.lg), o.mq.down(o.AV.lg), o.mq.down(o.AV.sm))
+        })(["display:flex;justify-content:center;width:100%;background:url('images/swap/left_arrow_swap.png'),url('images/swap/right_arrow_swap.png');background-position:left 60px,right 60px;background-repeat:no-repeat,no-repeat;@media ", "{background-position:left 66px,calc(100% + 104px) 66px;}@media ", "{background-position:left 43px,calc(100% + 155px) 43px;}@media ", "{background-position:calc(0% - 172px) 17px,calc(100% + 142px) 17px;background-size:319px 136px,258px 115px;}"], o.mq.down(o.AV.lg), o.mq.down(o.AV.lg), o.mq.down(o.AV.sm))
           , d = a.default.div.withConfig({
             displayName: "swapstyled__Container",
             componentId: "sc-1p5mfq1-1"

@@ -638,7 +638,7 @@
                         children: l("Warning!")
                     }), (0,
                     I.jsx)(_e, {
-                        children: l("If you mint your Planet now, you won\u2019t be able to upgrade it\u2019s evolution level via Alium Green Button game, are you sure, you are ready to mint your NFT?")
+                        children: l("If you mint your Planet now, you won\u2019t be able to upgrade it\u2019s evolution level via Rinance Green Button game, are you sure, you are ready to mint your NFT?")
                     }), (0,
                     I.jsx)(v.zx, {
                         fullwidth: !0,

@@ -199,7 +199,7 @@
             B.jsxs)(e.Root, {
                 children: [(0,
                 B.jsx)(I, {
-                    children: n("TVL - Alium Finance")
+                    children: n("TVL - Rinance Finance")
                 }), (0,
                 B.jsx)(b, {
                     children: (0,
@@ -945,7 +945,7 @@
                             width: "40%"
                         }) : (0,
                         B.jsxs)(B.Fragment, {
-                            children: [l("Market cap of Alium Swap DEX Token - ALM today is {{marketCap}}, a", {
+                            children: [l("Market cap of Rinance Swap DEX Token - ALM today is {{marketCap}}, a", {
                                 marketCap: c
                             }), (0,
                             B.jsx)(Y, {
@@ -1072,7 +1072,7 @@
                 B.jsxs)(e.Head, {
                     children: [(0,
                     B.jsx)(I, {
-                        children: a("Alium Finance to USD Chart")
+                        children: a("Rinance Finance to USD Chart")
                     }), (0,
                     B.jsx)(xe.default, {
                         href: "".concat(ve.Z.infoTokens, "/0x7c38870e93a1f959cb6c533eb10bbc3e438aac11"),
@@ -1148,7 +1148,7 @@
                 title: r("Locked in SHP"),
                 key: ye.CHART_LOCKED_SHP
             }, {
-                title: r("Locked on Alium"),
+                title: r("Locked on Rinance"),
                 key: ye.CHART_LOCKED_PLATFROM
             }]
               , d = (0,
@@ -1303,7 +1303,7 @@
         }
         ))
           , Fe = (f.default.span.withConfig({
-            displayName: "AnnouncementSliderstyled__Alium",
+            displayName: "AnnouncementSliderstyled__Rinance",
             componentId: "sc-1cayiln-0"
         })(["", ""], (function(e) {
             var t = e.theme;
@@ -1448,7 +1448,7 @@
                             children: l("Roadmap Update")
                         }), (0,
                         B.jsx)(De, {
-                            children: l("New features, events and incentives. Alium is becoming a better place!")
+                            children: l("New features, events and incentives. Rinance is becoming a better place!")
                         })]
                     }),
                     pattern: "roadmap"
@@ -1460,7 +1460,7 @@
                             children: l("Break the chains!")
                         }), (0,
                         B.jsx)(De, {
-                            children: l("Trade and swap tokens between chains with Alium multi-chain DEX Fastest way to swap tokens between blockchains.")
+                            children: l("Trade and swap tokens between chains with Rinance multi-chain DEX Fastest way to swap tokens between blockchains.")
                         })]
                     }),
                     pattern: "swap"
@@ -1496,7 +1496,7 @@
                             children: l("OKC Integration")
                         }), (0,
                         B.jsx)(De, {
-                            children: l("Alium Finance rolled up on OKX Chain")
+                            children: l("Rinance Finance rolled up on OKX Chain")
                         })]
                     }),
                     pattern: "okc"
@@ -1530,7 +1530,7 @@
                             ))
                         }), (0,
                         B.jsx)(Ue, {
-                            children: l("Alium announcements")
+                            children: l("Rinance announcements")
                         }), (0,
                         B.jsxs)(Te, {
                             children: [(0,
@@ -1901,7 +1901,7 @@
                     B.jsx)(pt, {
                         className: "icon"
                     }),
-                    title: l("Alium Finance raises $2.2M during private round"),
+                    title: l("Rinance Finance raises $2.2M during private round"),
                     date: "17.01.2022",
                     link: "https://cointelegraph.com/press-releases/alium-finance-raises-22m-during-private-round",
                     variant: "cointelegraph"
@@ -1919,7 +1919,7 @@
                     B.jsx)(rt, {
                         className: "icon"
                     }),
-                    title: l("AliumFinance Launches Its DEX Platform as Smart Contracts Gets Successfully Audited"),
+                    title: l("RinanceFinance Launches Its DEX Platform as Smart Contracts Gets Successfully Audited"),
                     date: "07.05.2021",
                     link: "https://www.coinspeaker.com/aliumfinance-dex-platform/",
                     variant: "coinspeaker"
@@ -1928,7 +1928,7 @@
                     B.jsx)(it, {
                         className: "icon"
                     }),
-                    title: l("Alium Finance Will Give Away 380,000 ALM Tokens in Honor of Listing on the MEXC Exchange"),
+                    title: l("Rinance Finance Will Give Away 380,000 ALM Tokens in Honor of Listing on the MEXC Exchange"),
                     date: "21.02.2022",
                     link: "https://coincodex.com/article/13727/alium-finance-will-give-away-380000-alm-tokens-in-honor-of-listing-on-the-mexc-exchange/",
                     variant: "coincodex"
@@ -1942,48 +1942,7 @@
                 children: (0,
                 B.jsxs)(wt, {
                     className: t,
-                    children: [(0,
-                    B.jsxs)(yt, {
-                        children: [(0,
-                        B.jsx)(kt, {
-                            children: l("Media about us")
-                        }), (0,
-                        B.jsxs)(bt, {
-                            children: [(0,
-                            B.jsx)(St, {
-                                onClick: r
-                            }), (0,
-                            B.jsx)(At, {
-                                onClick: o
-                            }), (0,
-                            B.jsx)(p.D8, {
-                                className: "progress-bar",
-                                callBack: o
-                            })]
-                        })]
-                    }), (0,
-                    B.jsx)(Rt, {
-                        children: (0,
-                        B.jsx)(jt, {
-                            children: (0,
-                            B.jsx)(Re.tq, {
-                                slidesPerView: 4,
-                                loop: !0,
-                                spaceBetween: 24,
-                                onSwiper: a,
-                                children: s.map((function(e, t) {
-                                    return (0,
-                                    B.jsx)(Re.o5, {
-                                        children: (0,
-                                        B.jsx)(xt, {
-                                            item: e
-                                        })
-                                    }, t)
-                                }
-                                ))
-                            })
-                        })
-                    })]
+                    children: []
                 })
             })
         }
@@ -2101,7 +2060,7 @@
                     B.jsx)(Tt, {
                         children: (0,
                         B.jsx)(Vt, {
-                            children: t("AliumSwap is an all-in-one multi-chain DEX with hybrid liquidity feature, unique staking alternatives, and the latest solutions for Investors, Traders, Businesses")
+                            children: t("RinanceSwap is an all-in-one multi-chain DEX with hybrid liquidity feature, unique staking alternatives, and the latest solutions for Investors, Traders, Businesses")
                         })
                     }), (0,
                     B.jsx)(xe.default, {
@@ -2386,7 +2345,7 @@
                 B.jsxs)(kn, {
                     children: [(0,
                     B.jsx)(yn, {
-                        children: e("Alium products")
+                        children: e("Rinance products")
                     }), (0,
                     B.jsx)(xn, {})]
                 }), (0,
@@ -2444,19 +2403,19 @@
             })
         }
           , En = f.default.div.withConfig({
-            displayName: "AliumProducts__CardWrapper",
+            displayName: "RinanceProducts__CardWrapper",
             componentId: "sc-6qk5h-0"
         })(["display:flex;align-items:center;flex-direction:row;flex-wrap:wrap;align-items:baseline;@media ", "{margin-left:0;padding:0;justify-content:center;& > div{width:100%;}}@media ", "{& > div{margin:0 12px;}}"], E.mq.down(E.AV.md), E.mq.down(E.AV.sm))
           , wn = f.default.div.withConfig({
-            displayName: "AliumProducts__ProductsContainer",
+            displayName: "RinanceProducts__ProductsContainer",
             componentId: "sc-6qk5h-1"
         })(["display:flex;align-items:center;justify-content:center;flex-direction:column;margin:0 0 96px 20px;@media ", "{margin-bottom:96px;}@media ", "{margin-bottom:56px;}@media ", "{margin-left:0;margin-bottom:46px;}"], E.mq.down(E.AV.lg), E.mq.down(E.AV.md), E.mq.down(E.AV.sm))
           , yn = f.default.span.withConfig({
-            displayName: "AliumProducts__MainText",
+            displayName: "RinanceProducts__MainText",
             componentId: "sc-6qk5h-2"
         })(["font-weight:600;font-size:40px;line-height:56px;color:#0b1359;font-family:'TT Fors Trial','Roboto',serif;@media ", "{", "}@media ", "{", " margin-right:0px;}"], E.mq.down(E.AV.md), E.cp.h4, E.mq.down(E.AV.sm), E.cp.h5)
           , kn = f.default.div.withConfig({
-            displayName: "AliumProducts__TextWrapper",
+            displayName: "RinanceProducts__TextWrapper",
             componentId: "sc-6qk5h-3"
         })(["display:flex;justify-content:space-between;align-items:center;margin:120px auto 40px auto;max-width:1200px;position:relative;@media ", "{margin:120px 32px 40px 32px;}@media ", "{margin:56px 12px 20px 12px;}"], E.mq.down(E.AV.lg), E.mq.down(E.AV.sm))
           , Sn = function() {
@@ -2713,48 +2672,7 @@
                     id: "audits",
                     children: (0,
                     B.jsxs)(Vn, {
-                        children: [(0,
-                        B.jsxs)(Mn, {
-                            children: [(0,
-                            B.jsx)(jn, {}), (0,
-                            B.jsx)(Fn, {
-                                children: e("Audits")
-                            }), (0,
-                            B.jsx)(On, {
-                                children: e("AliumSwap has been audited by top blockchain security companies")
-                            })]
-                        }), (0,
-                        B.jsxs)(zn, {
-                            children: [(0,
-                            B.jsx)(Gt, {
-                                text: e("2 Completed Audits"),
-                                link: "https://docs.alium.finance/security-audits/hacken",
-                                linkText: e("See reports"),
-                                children: (0,
-                                B.jsx)(An, {})
-                            }), (0,
-                            B.jsx)(Gt, {
-                                text: e("3 Completed Audits"),
-                                link: "https://docs.alium.finance/security-audits/certik",
-                                linkText: e("See reports"),
-                                children: (0,
-                                B.jsx)(Sn, {})
-                            }), (0,
-                            B.jsx)(Gt, {
-                                text: e("1 Completed Audit"),
-                                link: "https://docs.alium.finance/security-audits/quillhash",
-                                linkText: e("See report"),
-                                children: (0,
-                                B.jsx)(Rn, {})
-                            }), (0,
-                            B.jsx)(Gt, {
-                                text: e("1 Completed Audit"),
-                                link: "https://docs.alium.finance/security-audits/chainsulting",
-                                linkText: e("See report"),
-                                children: (0,
-                                B.jsx)(bn, {})
-                            })]
-                        })]
+                        children: []
                     })
                 })
             })
@@ -2998,7 +2916,7 @@
                                 children: t("Subscribe to stay tuned")
                             }), (0,
                             B.jsx)(e.P, {
-                                children: t("Feature updates, crypto & blockchain news and hints to get the most out of Alium Finance")
+                                children: t("Feature updates, crypto & blockchain news and hints to get the most out of Rinance Finance")
                             })]
                         }), (0,
                         B.jsx)(e.FlyIcon, {})]
@@ -3035,7 +2953,7 @@
                         children: t("Subscribe to stay tuned")
                     }), (0,
                     B.jsx)(e.P, {
-                        children: t("Feature updates, crypto & blockchain news and hints to get the most out of Alium Finance")
+                        children: t("Feature updates, crypto & blockchain news and hints to get the most out of Rinance Finance")
                     }), (0,
                     B.jsx)(e.Input, {
                         type: "email",
@@ -3290,39 +3208,7 @@
                 animateOnce: !0,
                 children: (0,
                 B.jsxs)(Si, {
-                    children: [(0,
-                    B.jsxs)(ki, {
-                        children: [(0,
-                        B.jsx)(Ri, {
-                            children: e("Latest Highlights")
-                        }), (0,
-                        B.jsxs)(yi, {
-                            href: "https://blog.alium.finance/",
-                            target: "_blank",
-                            children: [(0,
-                            B.jsx)("a", {
-                                children: e("Go to blog")
-                            }), (0,
-                            B.jsx)(Kt, {})]
-                        })]
-                    }), (0,
-                    B.jsxs)(Ai, {
-                        children: [(0,
-                        B.jsx)(bi, {
-                            children: null === t || void 0 === t ? void 0 : t.slice(0, 3).map((function(e) {
-                                return (0,
-                                B.jsx)(hi, {
-                                    text: e.title,
-                                    link: e.link,
-                                    img: e.img,
-                                    date: e.pubDate.substr(4, 8),
-                                    timeRead: e.readingTimeMin
-                                }, e.title)
-                            }
-                            ))
-                        }), (0,
-                        B.jsx)(ti, {})]
-                    })]
+                    children: []
                 })
             })
         }
@@ -7187,13 +7073,13 @@
                 year: n("2022"),
                 icon: Vr,
                 events: [{
-                    title: n("Alium App"),
+                    title: n("Rinance App"),
                     status: "done"
                 }, {
                     title: n("Cross-chain Swaps"),
                     status: "done"
                 }, {
-                    title: n("Alium Green Button\nGame Announced"),
+                    title: n("Rinance Green Button\nGame Announced"),
                     status: "done"
                 }, {
                     title: n("Crew3 quests"),
@@ -7207,7 +7093,7 @@
                 year: n("2023"),
                 icon: Or,
                 events: [{
-                    title: n("Alium Green Button - \nRelease"),
+                    title: n("Rinance Green Button - \nRelease"),
                     status: "progress"
                 }, {
                     title: n("Wallet integration")
@@ -7382,7 +7268,7 @@
                                 B.jsxs)("div", {
                                     children: [(0,
                                     B.jsx)(e.Title, {
-                                        children: t("Alium Swap\n is always\n at hand")
+                                        children: t("Rinance Swap\n is always\n at hand")
                                     }), (0,
                                     B.jsxs)(rs, {
                                         children: [(0,
@@ -7678,7 +7564,7 @@
         (0,
         f.Z)(i, o.a_.MAINNET, "smartchain"),
         i))
-          , x = "https://raw.githubusercontent.com/Alium-Finance/tokens-list/main"
+          , x = "https://raw.githubusercontent.com/Rinance-Finance/tokens-list/main"
           , v = "".concat(x, "/common")
           , _ = "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/"
           , C = "".concat(x, "/polygon/images/")
@@ -8306,7 +8192,7 @@
         var d = {}
           , p = (0,
         r.Ps)(i || (i = (0,
-        l.Z)(["\n    query getAliumTvl {\n  almCrossLiquidity {\n    date\n    totalLiquidityUSD\n  }\n  aliumTvl {\n    bsc {\n      date\n      totalLiquidityUSD\n    }\n    bscStaking {\n      date\n      totalLiquidityUSD\n    }\n    staking {\n      date\n      totalLiquidityUSD\n    }\n  }\n}\n    "])));
+        l.Z)(["\n    query getRinanceTvl {\n  almCrossLiquidity {\n    date\n    totalLiquidityUSD\n  }\n  aliumTvl {\n    bsc {\n      date\n      totalLiquidityUSD\n    }\n    bscStaking {\n      date\n      totalLiquidityUSD\n    }\n    staking {\n      date\n      totalLiquidityUSD\n    }\n  }\n}\n    "])));
         function m(e) {
             var t = c(c({}, d), e);
             return o.a(p, t)

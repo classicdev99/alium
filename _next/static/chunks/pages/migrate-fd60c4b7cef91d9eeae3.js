@@ -552,19 +552,19 @@
             exchange: "Ape"
         }, {
             address: "0xB55d67AA2d57861c81487b29A578aE1CdF272795",
-            exchange: "AliumOldV1"
+            exchange: "RinanceOldV1"
         }, {
             address: "0x92f12720733C626E3bEa3A35A9Bd6151ED12ff92",
-            exchange: "AliumOldV1"
+            exchange: "RinanceOldV1"
         }, {
             address: "0xf1Cac46EFf9A6BE6A1183375631a9fF6d0c38176",
-            exchange: "AliumOldV1"
+            exchange: "RinanceOldV1"
         }, {
             address: "0xDB9BA54E30B6e444960B8b7B2E0834DD8896A333",
-            exchange: "AliumOldV1"
+            exchange: "RinanceOldV1"
         }, {
             address: "0x4AfCB08A78FEeF566C6A62bB9856A3971C5317c6",
-            exchange: "AliumOldV1"
+            exchange: "RinanceOldV1"
         }]),
         (0,
         T.Z)(r, c.a_.BSCTESTNET, [{
@@ -578,16 +578,16 @@
             exchange: "Uniswap"
         }, {
             address: "0xAC7CFdE1a1a2930d90721EFA23e6aA2A34e18Fa3",
-            exchange: "AliumOldV1"
+            exchange: "RinanceOldV1"
         }, {
             address: "0x11e7AFd1ff91012d306A03C5228Ce9Aa33b6a4B4",
-            exchange: "AliumOldV1"
+            exchange: "RinanceOldV1"
         }, {
             address: "0xEe0969a3f65c8FDEb0F628B6Da8e2fc71DAb5d8E",
-            exchange: "AliumOldV1"
+            exchange: "RinanceOldV1"
         }, {
             address: "0xc445Baf474467dB69775b9b7455C8b85F38e5E94",
-            exchange: "AliumOldV1"
+            exchange: "RinanceOldV1"
         }]),
         (0,
         T.Z)(r, c.a_.HECOMAINNET, [{
@@ -1234,7 +1234,7 @@
                     children: [(0,
                     W.jsx)("div", {
                         className: "title",
-                        children: a("Migrate Alium Liquidity")
+                        children: a("Migrate Rinance Liquidity")
                     }), (0,
                     W.jsx)("div", {
                         className: "sub-title",
@@ -1493,7 +1493,7 @@
                         }), -1 !== r && (0,
                         W.jsx)("div", {
                             className: "title2",
-                            children: x("Your {{exchange}} {{title}} liquidity will become AliumSwap {{title}} liquidity", {
+                            children: x("Your {{exchange}} {{title}} liquidity will become RinanceSwap {{title}} liquidity", {
                                 exchange: m,
                                 title: b
                             })
@@ -1684,7 +1684,7 @@
                     W.jsx)(xe, {}), (0,
                     W.jsx)("div", {
                         className: "title",
-                        children: f("Migrate {{pairExchange}} {{pairTitle}} liquidity to AliumSwap", {
+                        children: f("Migrate {{pairExchange}} {{pairTitle}} liquidity to RinanceSwap", {
                             pairExchange: n.exchange,
                             pairTitle: n.title
                         })
@@ -1703,7 +1703,7 @@
                             style: {
                                 marginRight: "12px"
                             },
-                            children: f("Alium-LP Token:")
+                            children: f("Rinance-LP Token:")
                         }), (0,
                         W.jsxs)("div", {
                             className: "copy",
@@ -2379,7 +2379,7 @@
           , d = r.default.div.withConfig({
             displayName: "swapstyled__RootSwap",
             componentId: "sc-1p5mfq1-0"
-        })(["display:flex;justify-content:center;width:100%;background:url('images/swap/left_arrow_swap.svg'),url('images/swap/right_arrow_swap.svg');background-position:left 60px,right 60px;background-repeat:no-repeat,no-repeat;@media ", "{background-position:left 66px,calc(100% + 104px) 66px;}@media ", "{background-position:left 43px,calc(100% + 155px) 43px;}@media ", "{background-position:calc(0% - 172px) 17px,calc(100% + 142px) 17px;background-size:319px 136px,258px 115px;}"], t.mq.down(t.AV.lg), t.mq.down(t.AV.lg), t.mq.down(t.AV.sm))
+        })(["display:flex;justify-content:center;width:100%;background:url('images/swap/left_arrow_swap.png'),url('images/swap/right_arrow_swap.png');background-position:left 60px,right 60px;background-repeat:no-repeat,no-repeat;@media ", "{background-position:left 66px,calc(100% + 104px) 66px;}@media ", "{background-position:left 43px,calc(100% + 155px) 43px;}@media ", "{background-position:calc(0% - 172px) 17px,calc(100% + 142px) 17px;background-size:319px 136px,258px 115px;}"], t.mq.down(t.AV.lg), t.mq.down(t.AV.lg), t.mq.down(t.AV.sm))
           , s = r.default.div.withConfig({
             displayName: "swapstyled__Container",
             componentId: "sc-1p5mfq1-1"

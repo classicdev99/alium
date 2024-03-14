@@ -2097,26 +2097,26 @@
         be[t.a_.OKC] = new _e(t.a_.OKC,"0x8F8526dbfd6E38E3D8307702cA8469Bae6C56C15",18,"WOKT","Wrapped OKT"),
         be[t.a_.OKC_TESTNET] = new _e(t.a_.OKC_TESTNET,"0x3379b4a4Fc0E1614c0687C9F613024E83FE0E8b5",18,"WOKT","Wrapped OKT"),
         be[t.a_.GOERLI] = new _e(t.a_.GOERLI,"0xB4FBF271143F4FBf7B91A5ded31805e42b2208d6",18,"wgrl","wgrl"),
-        be), xe = ((he = {})[t.a_.MAINNET] = new _e(t.a_.MAINNET,"0x7c38870e93a1f959cb6c533eb10bbc3e438aac11",18,"ALM","AliumToken"),
-        he[t.a_.BSCTESTNET] = new _e(t.a_.BSCTESTNET,"0x6f58aCfaEB1BfDC9c4959c43aDdE7a3b63BF019f",18,"ALM","AliumToken"),
-        he[t.a_.HECOMAINNET] = new _e(t.a_.HECOMAINNET,"0x1581929770be3275a82068c1135b6dd59c5334ed",18,"ALM","AliumToken on HECO"),
-        he[t.a_.HECOTESTNET] = new _e(t.a_.HECOTESTNET,"0xfe681ad91bbb8b531623a7cb8c658e4afe500fd9",18,"ALM","AliumToken on HECO testnet"),
-        he[t.a_.MATIC_MAINNET] = new _e(t.a_.MATIC_MAINNET,"0x1581929770be3275a82068c1135b6dd59c5334ed",18,"ALM","AliumToken on Polygon"),
-        he[t.a_.MATIC_TESTNET] = new _e(t.a_.MATIC_TESTNET,"0x58b06772603ad67223bef63ab578f7cb3215771b",18,"ALM","AliumToken on Polygon"),
-        he[t.a_.ETHER_MAINNET] = new _e(t.a_.ETHER_MAINNET,"0x1581929770be3275a82068c1135b6dd59c5334ed",18,"ALM","AliumToken on Ethereum"),
-        he[t.a_.ETHER_TESTNET] = new _e(t.a_.ETHER_TESTNET,"0x05418f9e8a71a96d9bb58fa6d71533033dc23ac6",18,"ALM","AliumToken on RINKEBY testnet"),
-        he[t.a_.FANTOM] = new _e(t.a_.FANTOM,"0x38540b4613d2e57ecf190d3486ae6f74591eb8a9",18,"ALM","AliumToken on Fantom"),
-        he[t.a_.FANTOM_TESTNET] = new _e(t.a_.FANTOM_TESTNET,"0x91dc5712460550849a7664a6177b407eeb833d9d",18,"ALM","AliumToken on FANTOM testnet"),
-        he[t.a_.METIS] = new _e(t.a_.METIS,"0x1581929770bE3275a82068c1135b6dD59c5334Ed",18,"ALM","AliumToken on METIS"),
-        he[t.a_.METIC_TESTNET] = new _e(t.a_.METIC_TESTNET,"0x9aB518232d32A0711ecB39F940D107d61e37c5d0",18,"ALM","AliumToken on METIS testnet"),
-        he[t.a_.MOONRIVER] = new _e(t.a_.MOONRIVER,"0x1581929770be3275a82068c1135b6dd59c5334ed",18,"ALM","AliumToken on Moonriver"),
-        he[t.a_.MOONBASE_ALPHA] = new _e(t.a_.MOONBASE_ALPHA,"0x8ab7a1fc6bc09e04837f2aa4786cc8cbfc281481",18,"ALM","AliumToken on Moonriver testnet"),
-        he[t.a_.MOONBEAM] = new _e(t.a_.MOONBEAM,"0x1581929770be3275a82068c1135b6dd59c5334ed",18,"ALM","AliumToken on Moonbeam"),
-        he[t.a_.AURORA] = new _e(t.a_.AURORA,"0xe8532E5514d9F80C7d0B1F29948873ee59Fb5B06",18,"ALM","AliumToken on Aurora testnet"),
-        he[t.a_.AURORA_TESTNET] = new _e(t.a_.AURORA_TESTNET,"0x05418f9e8A71A96D9Bb58Fa6D71533033DC23aC6",18,"ALM","AliumToken on Aurora"),
-        he[t.a_.OKC] = new _e(t.a_.OKC,"0x5252d84f12942a997387168df6da55ebf827378e",18,"ALM","AliumToken on OKX"),
-        he[t.a_.OKC_TESTNET] = new _e(t.a_.OKC_TESTNET,"0x1581929770be3275a82068c1135b6dd59c5334ed",18,"ALM","AliumToken on OKEx"),
-        he[t.a_.GOERLI] = new _e(t.a_.GOERLI,"0x0000000000000000000000000000000000000000",18,"ALM","AliumToken"),
+        be), xe = ((he = {})[t.a_.MAINNET] = new _e(t.a_.MAINNET,"0x7c38870e93a1f959cb6c533eb10bbc3e438aac11",18,"ALM","RinanceToken"),
+        he[t.a_.BSCTESTNET] = new _e(t.a_.BSCTESTNET,"0x6f58aCfaEB1BfDC9c4959c43aDdE7a3b63BF019f",18,"ALM","RinanceToken"),
+        he[t.a_.HECOMAINNET] = new _e(t.a_.HECOMAINNET,"0x1581929770be3275a82068c1135b6dd59c5334ed",18,"ALM","RinanceToken on HECO"),
+        he[t.a_.HECOTESTNET] = new _e(t.a_.HECOTESTNET,"0xfe681ad91bbb8b531623a7cb8c658e4afe500fd9",18,"ALM","RinanceToken on HECO testnet"),
+        he[t.a_.MATIC_MAINNET] = new _e(t.a_.MATIC_MAINNET,"0x1581929770be3275a82068c1135b6dd59c5334ed",18,"ALM","RinanceToken on Polygon"),
+        he[t.a_.MATIC_TESTNET] = new _e(t.a_.MATIC_TESTNET,"0x58b06772603ad67223bef63ab578f7cb3215771b",18,"ALM","RinanceToken on Polygon"),
+        he[t.a_.ETHER_MAINNET] = new _e(t.a_.ETHER_MAINNET,"0x1581929770be3275a82068c1135b6dd59c5334ed",18,"ALM","RinanceToken on Ethereum"),
+        he[t.a_.ETHER_TESTNET] = new _e(t.a_.ETHER_TESTNET,"0x05418f9e8a71a96d9bb58fa6d71533033dc23ac6",18,"ALM","RinanceToken on RINKEBY testnet"),
+        he[t.a_.FANTOM] = new _e(t.a_.FANTOM,"0x38540b4613d2e57ecf190d3486ae6f74591eb8a9",18,"ALM","RinanceToken on Fantom"),
+        he[t.a_.FANTOM_TESTNET] = new _e(t.a_.FANTOM_TESTNET,"0x91dc5712460550849a7664a6177b407eeb833d9d",18,"ALM","RinanceToken on FANTOM testnet"),
+        he[t.a_.METIS] = new _e(t.a_.METIS,"0x1581929770bE3275a82068c1135b6dD59c5334Ed",18,"ALM","RinanceToken on METIS"),
+        he[t.a_.METIC_TESTNET] = new _e(t.a_.METIC_TESTNET,"0x9aB518232d32A0711ecB39F940D107d61e37c5d0",18,"ALM","RinanceToken on METIS testnet"),
+        he[t.a_.MOONRIVER] = new _e(t.a_.MOONRIVER,"0x1581929770be3275a82068c1135b6dd59c5334ed",18,"ALM","RinanceToken on Moonriver"),
+        he[t.a_.MOONBASE_ALPHA] = new _e(t.a_.MOONBASE_ALPHA,"0x8ab7a1fc6bc09e04837f2aa4786cc8cbfc281481",18,"ALM","RinanceToken on Moonriver testnet"),
+        he[t.a_.MOONBEAM] = new _e(t.a_.MOONBEAM,"0x1581929770be3275a82068c1135b6dd59c5334ed",18,"ALM","RinanceToken on Moonbeam"),
+        he[t.a_.AURORA] = new _e(t.a_.AURORA,"0xe8532E5514d9F80C7d0B1F29948873ee59Fb5B06",18,"ALM","RinanceToken on Aurora testnet"),
+        he[t.a_.AURORA_TESTNET] = new _e(t.a_.AURORA_TESTNET,"0x05418f9e8A71A96D9Bb58Fa6D71533033DC23aC6",18,"ALM","RinanceToken on Aurora"),
+        he[t.a_.OKC] = new _e(t.a_.OKC,"0x5252d84f12942a997387168df6da55ebf827378e",18,"ALM","RinanceToken on OKX"),
+        he[t.a_.OKC_TESTNET] = new _e(t.a_.OKC_TESTNET,"0x1581929770be3275a82068c1135b6dd59c5334ed",18,"ALM","RinanceToken on OKEx"),
+        he[t.a_.GOERLI] = new _e(t.a_.GOERLI,"0x0000000000000000000000000000000000000000",18,"ALM","RinanceToken"),
         he), we = g(N), Fe = g(_), Ie = ((Ne = {})[t.mL.ROUND_DOWN] = we.ROUND_DOWN,
         Ne[t.mL.ROUND_HALF_UP] = we.ROUND_HALF_UP,
         Ne[t.mL.ROUND_UP] = we.ROUND_UP,
@@ -3408,7 +3408,7 @@
                         try {
                             return Promise.resolve(function() {
                                 try {
-                                    return Promise.resolve(D.get("https://api.github.com/repos/Alium-Finance/tokens-list/git/trees/main?recursive=1")).then((function(e) {
+                                    return Promise.resolve(D.get("https://api.github.com/repos/Rinance-Finance/tokens-list/git/trees/main?recursive=1")).then((function(e) {
                                         var t;
                                         return null == e || null === (t = e.data) || void 0 === t ? void 0 : t.tree.filter((function(e) {
                                             var t;
@@ -3418,7 +3418,7 @@
                                             return e.path.replace("lists/", "")
                                         }
                                         )).map((function(e) {
-                                            return "https://raw.githubusercontent.com/Alium-Finance/tokens-list/main/lists/" + e
+                                            return "https://raw.githubusercontent.com/Rinance-Finance/tokens-list/main/lists/" + e
                                         }
                                         ))
                                     }
