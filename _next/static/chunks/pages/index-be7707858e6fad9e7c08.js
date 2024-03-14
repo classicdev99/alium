@@ -7053,8 +7053,8 @@
               , n = (0,
             h.$G)().t
               , i = [{
-                name: n("Q4"),
-                year: n("2022"),
+                name: n("Q1"),
+                year: n("2024"),
                 icon: Vr,
                 events: [{
                     title: n("Rinance App"),
@@ -7073,8 +7073,8 @@
                     status: "done"
                 }]
             }, {
-                name: n("Q1"),
-                year: n("2023"),
+                name: n("Q2"),
+                year: n("2024"),
                 icon: Or,
                 events: [{
                     title: n("Rinance Green Button - \nRelease"),
@@ -7089,8 +7089,8 @@
                     title: n("More Incentives")
                 }]
             }, {
-                name: n("Q2"),
-                year: n("2023"),
+                name: n("Q3"),
+                year: n("2024"),
                 icon: Bo,
                 events: [{
                     title: n("Interplanetary Cross-\nChain Battle\nAnnouncement")
@@ -7257,10 +7257,10 @@
                                     B.jsxs)(rs, {
                                         children: [(0,
                                         B.jsxs)(as, {
-                                            href: "https://play.google.com/store/apps/details?id=com.alium.finance",
+                                            //href: "https://play.google.com/store/apps/details?id=com.alium.finance",
                                             target: "_blank",
                                             onClick: function() {
-                                                i.m.events.googlePlay()
+                                              //  i.m.events.googlePlay()
                                             },
                                             children: [(0,
                                             B.jsx)("div", {
@@ -7273,15 +7273,15 @@
                                                 children: (0,
                                                 B.jsx)("p", {
                                                     className: "social",
-                                                    children: t("Google Play")
+                                                    children: t("Coming soon")
                                                 })
                                             })]
                                         }), (0,
                                         B.jsxs)(as, {
-                                            href: "https://apps.apple.com/ru/app/aliumswap-dex/id1585963586",
+                                            //href: "https://apps.apple.com/ru/app/aliumswap-dex/id1585963586",
                                             target: "_blank",
                                             onClick: function() {
-                                                i.m.events.appstore()
+                                             //   i.m.events.appstore()
                                             },
                                             children: [(0,
                                             B.jsx)("div", {
@@ -7294,7 +7294,7 @@
                                                 children: (0,
                                                 B.jsx)("p", {
                                                     className: "social",
-                                                    children: t("App store")
+                                                    children: t("Coming soon")
                                                 })
                                             })]
                                         })]

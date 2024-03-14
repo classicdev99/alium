@@ -532,44 +532,14 @@
             }, {
                 text: n("Strong Holders Pools"),
                 href: S.Z.shp
-            }, {
-                text: n("Analytics"),
-                href: S.Z.info
             }]
-              , s = [{
-                text: n("BscScan"),
-                href: k.NJ.bscscan
-            }, {
-                text: n("GitHub"),
-                href: k.NJ.github
-            }, {
-                text: n("Coingecko"),
-                href: k.NJ.coingecko
-            }, {
-                text: n("CoinMarketCap"),
-                href: k.NJ.coinMarketCap
-            }, {
-                text: n("Defi Llama"),
-                href: k.NJ.defiLiama
-            }, {
-                text: n("PooCoin"),
-                href: k.NJ.poocoin
-            }]
+              , s = []
               , I = [{
                 text: n("Roadmap"),
                 href: k.NJ.roadmap
-            }, {
-                text: n("Blog"),
-                href: k.NJ.blog
-            }, {
+            },  {
                 text: n("FAQs"),
                 href: k.NJ.FAQs
-            }, {
-                text: n("Media Kit"),
-                href: k.NJ.mediaKit
-            }, {
-                text: n("Careers"),
-                href: k.NJ.vacancies
             }, {
                 text: n("Contact us"),
                 href: "mailto:info@alium.finance"
@@ -678,17 +648,7 @@
                                 ))]
                             }), (0,
                             J.jsxs)("div", {
-                                children: [(0,
-                                J.jsx)(gA, {
-                                    children: n("Tools")
-                                }), s.map((function(A) {
-                                    return (0,
-                                    J.jsx)(CA, {
-                                        href: "".concat(A.href),
-                                        children: A.text
-                                    }, A.text)
-                                }
-                                ))]
+                                children: []
                             }), (0,
                             J.jsxs)("div", {
                                 children: [(0,
