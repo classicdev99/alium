@@ -1595,23 +1595,7 @@
                 animateOnce: !0,
                 children: (0,
                 B.jsxs)(e.Wrapper, {
-                    children: [(0,
-                    B.jsxs)(e.List, {
-                        children: [(0,
-                        B.jsxs)(tt, {
-                            children: [n && (0,
-                            B.jsx)(We, {}), (0,
-                            B.jsx)(e.Title, {
-                                children: t("Join the community")
-                            }), (0,
-                            B.jsxs)(e.Title, {
-                                children: [!n && (0,
-                                B.jsx)(We, {}), t("Change the world")]
-                            })]
-                        }), (0,
-                        B.jsx)(p.PV, {})]
-                    }), (0,
-                    B.jsx)(et, {})]
+                    children: []
                 })
             })
         };
